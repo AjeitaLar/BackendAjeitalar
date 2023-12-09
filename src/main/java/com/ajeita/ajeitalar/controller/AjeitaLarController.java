@@ -9,6 +9,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/AjeitaLar")
+@CrossOrigin
 public class AjeitaLarController {
 
     @Autowired
